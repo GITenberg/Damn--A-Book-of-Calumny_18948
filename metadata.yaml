@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/578
     wikipedia: http://en.wikipedia.org/wiki/H._L._Mencken
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18948#Damn--A-Book-of-Calumny
 gutenberg_issued: '2006-07-31'
 gutenberg_type: Text
 identifiers:
